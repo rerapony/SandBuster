@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 10ff50e6448d93a49999ed13ae438bee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9201321372858351855
+    second: UIHellsandbox_0
+  - first:
+      213: 6483940551186203341
+    second: UIHellsandbox_1
+  - first:
+      213: -6799813164473050262
+    second: UIHellsandbox_2
+  - first:
+      213: -2411750946492311452
+    second: UIHellsandbox_3
+  - first:
+      213: 2532414179222287529
+    second: UIHellsandbox_4
+  - first:
+      213: 4429983150654558450
+    second: UIHellsandbox_5
+  - first:
+      213: 5399443014735732047
+    second: UIHellsandbox_6
+  - first:
+      213: -5538276612178937650
+    second: UIHellsandbox_7
+  - first:
+      213: -464994470103516131
+    second: UIHellsandbox_8
+  - first:
+      213: -732155809059766015
+    second: UIHellsandbox_9
+  - first:
+      213: -4872500035322154434
+    second: UIHellsandbox_10
+  - first:
+      213: 1425867320410334419
+    second: UIHellsandbox_11
+  - first:
+      213: -8725994982858337519
+    second: UIHellsandbox_12
+  - first:
+      213: 3719580231772069173
+    second: UIHellsandbox_13
+  - first:
+      213: -1544843561145397044
+    second: UIHellsandbox_14
+  - first:
+      213: -2116450645074513584
+    second: UIHellsandbox_15
+  - first:
+      213: -8274748142266628032
+    second: UIHellsandbox_16
+  - first:
+      213: 3199571729843500975
+    second: UIHellsandbox_17
+  - first:
+      213: -4863801804670204552
+    second: UIHellsandbox_18
+  - first:
+      213: 5976399214895147218
+    second: UIHellsandbox_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIHellsandbox_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1688
+        width: 601
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff86328295f4dc4d8b0316d902740c4
+      internalID: -9201321372858351855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1668
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1363c6b49b014abe0f7cdd94b566a
+      internalID: 6483940551186203341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1475
+        width: 601
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294db22187c20d4ab233695077deef4
+      internalID: -6799813164473050262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_3
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1418
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a431497b3f6ad4fa216a122334bae2
+      internalID: -2411750946492311452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1264
+        width: 601
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd33ea67fd4184d809826983ddf0b8
+      internalID: 2532414179222287529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1163
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe6ddd2990370f488d2aaa78ebf67ed
+      internalID: 4429983150654558450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1050
+        width: 601
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80148406508a248bbf99eb3bb6f23f
+      internalID: 5399443014735732047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 913
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae262416f302574b9b4466f6a46b14c
+      internalID: -5538276612178937650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 828
+        width: 601
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930be00ebea0de4493631537186f90c
+      internalID: -464994470103516131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 663
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a104fadf753f4c986c5962f696dad
+      internalID: -732155809059766015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 701
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384cf33759f4db4595bd14130f60deb
+      internalID: -4872500035322154434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 566
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628bf0455de97041a5111561823fa0b
+      internalID: 1425867320410334419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 421
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ebd422f1f1f9249b070d77046445a1
+      internalID: -8725994982858337519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c602a8fec4050043914b4fa952c5325
+      internalID: 3719580231772069173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c01d5ffb62ff194a9cb60bebe6c6356
+      internalID: -1544843561145397044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 282
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd72277d127d184e897a1b11807b229
+      internalID: -2116450645074513584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_16
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 179
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458c5d0e723fd34db515af14ce84d03
+      internalID: -8274748142266628032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a653860158085a49bb64851b58c2e80
+      internalID: 3199571729843500975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905a3a248011c647bc5a7f608f4b0e9
+      internalID: -4863801804670204552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIHellsandbox_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 700
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6432845408374199e79846b24f0ca
+      internalID: 5976399214895147218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b0d61c5b96af7847a1be5cd9df11550
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
